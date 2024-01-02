@@ -157,7 +157,7 @@ class _TaskWidgetState extends State<TaskWidget> {
               child: Row(
                 children: [
                   Text(
-                    " ک ",
+                    "ویرایش",
                     style: TextStyle(
                       color: Color(0xff18dAA3),
                     ),
